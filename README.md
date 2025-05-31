@@ -16,18 +16,20 @@ Feel free to reach out to me for potential collaborations or opportunities!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mfahdk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=mfahdk&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahdk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧠 TryHackMe Stats:
-![Image](https://github.com/user-attachments/assets/65c51ae2-e9db-43fb-b836-53d7c2d36eb7)
+<img src="https://github.com/user-attachments/assets/7c59bd93-7eef-4794-8d8b-5e6dd74cf4b3" alt="Image" width="300"/>
+
+I use TryHackMe to sharpen my cybersecurity skills through practical, hands-on challenges. Over time, I’ve earned a solid amount of points by completing various rooms that cover topics like penetration testing, cryptography, and network security. The badges I’ve collected represent milestones and achievements along my learning journey. I’m proud to be part of the TryHackMe community and continuously improving my skills in a gamified, supportive environment.
 
 ## 🧠 Hack The Box
+<img src="https://www.hackthebox.com/badge/image/2290204" alt="Hack The Box" style="zoom: 150%;" />
 
-<a href="https://app.hackthebox.com/profile/2290204">
-  <img src="https://www.hackthebox.com/badge/image/2290204" width="400"/>
-</a>
-
+On Hack The Box, I push my offensive security skills to the next level by tackling real-world hacking simulations. My profile reflects the machines and challenges I’ve completed, as well as my rank among other cybersecurity enthusiasts. HTB is where I practice advanced penetration testing techniques and stay sharp in a competitive and professional setting. It’s an essential part of my growth as a hands-on security practitioner.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
