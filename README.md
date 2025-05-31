@@ -22,8 +22,13 @@ Feel free to reach out to me for potential collaborations or opportunities!
 ## 🧠 TryHackMe Stats:
 ![Image](https://github.com/user-attachments/assets/65c51ae2-e9db-43fb-b836-53d7c2d36eb7)
 
+## 🧠 Hack The Box
+
+<a href="https://app.hackthebox.com/profile/2290204">
+  <img src="https://www.hackthebox.com/badge/image/2290204" width="400"/>
+</a>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=mfahdk&icon=0&color=0)](https://visitcount.itsvg.in)
