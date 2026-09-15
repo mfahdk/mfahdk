@@ -1,36 +1,60 @@
 # 💫 About Me
-Hi! I'm Muhammad Fahd Khan, an entry-level Cybersecurity professional with a deep passion for securing digital environments and mitigating cyber risks. With hands-on experience in malware analysis, threat intelligence, network security, vulnerability assessments, and reverse engineering, I am dedicated to enhancing the safety of sensitive data and systems.
+Hi! I'm Muhammad Fahd Khan, a cybersecurity professional (BS Cybersecurity, RIT Dubai) specializing in SOC operations, detection engineering, and offensive security. I build and maintain production security log pipelines on the Elastic Stack, administer SIEM/XDR platforms, and independently practice penetration testing and malware analysis, ranked Top 5% Global on TryHackMe and an active Hack The Box researcher with published writeups.
 
-I’m skilled in a variety of programming languages such as Python, Java, C, and JavaScript, and have a strong background in developing encryption systems, malware reverse engineering, and threat analysis. Additionally, I have experience in Android development and web application development, expanding my ability to build secure and efficient software solutions across platforms. I’m continuously expanding my knowledge, currently pursuing certifications like Cisco Certified Network Associate.
+I'm CEH and CCNA certified, currently pursuing CPENT and Microsoft AZ-104. I have hands-on experience across Active Directory exploitation, web application security, malware reverse engineering, and cloud security on Azure. I also work across Python, Java, C, and JavaScript, and have dabbled in Android and web app development.
 
-On this GitHub, you'll find my projects related to secure communication models, hybrid encryption systems, password managers, Android apps, web apps, and other programs. I also maintain detailed write-ups and documentation for many of these projects to explain the concepts and implementation steps. I’m always eager to learn new techniques, collaborate with others, and contribute to the ever-evolving cybersecurity field.
-
-Feel free to reach out to me for potential collaborations or opportunities!
-
+On this GitHub, you'll find projects covering malware analysis, intrusion detection with ML, secure encryption systems, and detailed write-ups explaining the concepts and implementation behind each one. Always open to collaborating or hearing about new opportunities — feel free to reach out!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mfahdk/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammed.fahd.khan@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfahdk/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammed.fahd.khan@gmail.com)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 💻 Tech Stack
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mfahdk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+**Languages & Scripting**
 
-![](https://nirzak-streak-stats.vercel.app/?user=mfahdk&theme=dark&hide_border=false)<br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86%20Assembly-blue?style=for-the-badge)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xmfk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Security Tools & Platforms**
 
-## 🧠 TryHackMe Stats:
-<img src="https://github.com/user-attachments/assets/7c59bd93-7eef-4794-8d8b-5e6dd74cf4b3" alt="Image" width="300"/>
+![Elastic](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AB6E6?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort%20IDS-grey?style=for-the-badge)
+![Security Onion](https://img.shields.io/badge/Security%20Onion-2E8B57?style=for-the-badge)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-I use TryHackMe to sharpen my cybersecurity skills through practical, hands-on challenges. Over time, I’ve earned a solid amount of points by completing various rooms that cover topics like penetration testing, cryptography, and network security. The badges I’ve collected represent milestones and achievements along my learning journey. I’m proud to be part of the TryHackMe community and continuously improving my skills in a gamified, supportive environment.
+**Systems & Cloud**
+
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/windows%20server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Databases & Web**
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## 🧠 Hack The Box
-<img src="https://www.hackthebox.com/badge/image/2290204" alt="Hack The Box" style="zoom: 150%;" />
+<img src="https://www.hackthebox.com/badge/image/2290204" alt="Hack The Box" width="300"/>
 
-On Hack The Box, I push my offensive security skills to the next level by tackling real-world hacking simulations. My profile reflects the machines and challenges I’ve completed, as well as my rank among other cybersecurity enthusiasts. HTB is where I practice advanced penetration testing techniques and stay sharp in a competitive and professional setting. It’s an essential part of my growth as a hands-on security practitioner.
+Active on Hack The Box, working through real-world offensive security simulations and publishing writeups for completed machines and challenges, see the [Writeups repo](https://github.com/mfahdk/Writeups) for detailed walkthroughs.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 TryHackMe
+**Top 5% Global · 70+ Rooms Completed · 11 Badges**
 
+Profile: [tryhackme.com/p/0xMFK](https://tryhackme.com/p/0xMFK) — hands-on practice across penetration testing, network security, and Linux/Windows fundamentals.
