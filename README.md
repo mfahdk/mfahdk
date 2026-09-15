@@ -5,6 +5,8 @@ I'm CEH and CCNA certified, currently pursuing CPENT and Microsoft AZ-104. I hav
 
 On this GitHub, you'll find projects covering malware analysis, intrusion detection with ML, secure encryption systems, and detailed write-ups explaining the concepts and implementation behind each one. Always open to collaborating or hearing about new opportunities — feel free to reach out!
 
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-2CA5E0?logo=readdotcv&logoColor=white)](https://github.com/mfahdk/mfahdk/blob/main/Fahd_Cybersec_Resume.pdf)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfahdk/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammed.fahd.khan@gmail.com)
 
