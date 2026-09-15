@@ -19,7 +19,7 @@ Feel free to reach out to me for potential collaborations or opportunities!
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mfahdk&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahdk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xmfk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧠 TryHackMe Stats:
 <img src="https://github.com/user-attachments/assets/7c59bd93-7eef-4794-8d8b-5e6dd74cf4b3" alt="Image" width="300"/>
